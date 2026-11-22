@@ -151,6 +151,8 @@ activemq-data/
 
 # Environments
 .env
+.env.*
+!.env.example
 .envrc
 .venv
 env/
@@ -218,3 +220,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local operating-system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local secrets and credentials
+*.pem
+*.key
+credentials*.json
+secrets*.json
+
+# Private research and commercial source material
+private/
+**/private/
+commercial-manuscripts/
+third-party-pdfs/
