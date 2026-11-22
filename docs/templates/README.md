@@ -6,3 +6,4 @@ Copy a template into its destination, rename it according to [the naming convent
 - [Engineering experiment report](engineering-experiment-report.md): reproducible hypotheses, methods, and results
 - [Interview question](interview-question.md): independently authored questions and calibrated answers
 - [Handbook chapter](handbook-chapter.md): consistent long-form educational chapters
+- [Project learning plan](project-learning-plan.md): repository-wide learning principles adapted to one project's tasks and evidence

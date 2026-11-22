@@ -6,6 +6,20 @@ This plan sequences learning immediately before the task that uses it. It is not
 
 No listed artifact or interview answer exists merely because it is planned here.
 
+This plan applies the repository-wide [learning principles](../LEARNING_PRINCIPLES.md): build from fundamentals, reason about the complete system, introduce production tooling only when justified, connect technical work to user outcomes, learn in depth, and maintain a sustainable pace.
+
+## Project 01 Emphasis
+
+| Learning dimension | Application in Project 01 |
+|---|---|
+| Foundations | Python typing, immutable value objects, exceptions, stable sorting, Unicode, pure functions, invariants, and boundary testing |
+| System design | Context inputs, token-counter boundary, usable budget, validation, selection, rendering, reporting, and failure paths |
+| Production engineering | Deterministic offline behavior, safe diagnostics, dependency isolation, reproducibility, and quality gates; APIs, cloud, and deployment remain out of scope |
+| Product reasoning | Explain how predictable context allocation supports reliability, auditability, latency/cost control, and safer AI behavior without inventing business impact |
+| Communication | Defend policy and architecture choices through ADRs, plain-language explanations, diagrams, and interview discussions |
+| Independent learning | Compare alternatives, use authoritative sources, run synthetic experiments, and form evidence-based conclusions |
+| Sustainable practice | Complete one approval-gated task per session, review every meaningful line, record lessons, and stop before the next task |
+
 ## Learning Record Format
 
 After each approved implementation task, record:

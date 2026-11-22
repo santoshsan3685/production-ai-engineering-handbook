@@ -12,7 +12,7 @@
 
 ### P01-M01-T01 — Build the requirements traceability and decision register
 
-1. **Status:** Planned
+1. **Status:** Approved
 2. **Objective:** Map `FR`, `QR`, and `AC` identifiers to planned components, tasks, and evidence.
 3. **Why:** Prevent silent scope loss and expose unresolved decisions before code.
 4. **Learn first:** Requirement traceability, verification versus validation.
@@ -26,7 +26,7 @@
 12. **Tests:** Documentation link and completeness review.
 13. **Acceptance:** Every `FR-001`–`FR-011`, `QR-001`–`QR-007`, and `AC-001`–`AC-011` appears.
 14. **Done:** User reviews gaps and approves the register.
-15. **Evidence:** Reviewed matrix and unresolved-decision list.
+15. **Evidence:** Approved [requirements traceability and decision register](PROJECT_01_TRACEABILITY.md).
 16. **Complexity:** Beginner.
 17. **Learning time:** 45–75 minutes.
 18. **Interview preparation:** Traceability, definitions of done, evidence-based delivery.
